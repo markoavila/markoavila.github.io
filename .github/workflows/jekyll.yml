@@ -1,4 +1,4 @@
-name: Deploy al-folio site
+name: Deploy al-folio to GitHub Pages
 
 on:
   push:
