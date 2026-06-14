@@ -9,3 +9,5 @@ github_repos:
   - markoavila/cascade-st-engine
   - markoavila/whisper-train-infer-toolbox
   - markoavila/wmt2024_non-repetitive_nmt
+  - markoavila/ctranslate2-gradio-gemo
+  - markoavila/nmt-flutter-demo.git
