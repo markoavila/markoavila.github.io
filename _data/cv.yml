@@ -32,9 +32,9 @@ cv:
         end_date: 2021
         # score: ""
         # courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - institution: Télécom Paris
         location: Paris, France
@@ -42,9 +42,9 @@ cv:
         studyType: Engineering Diploma
         start_date: 2018
         end_date: 2021
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - institution: Université Auvergne
         location: Lyon, France
@@ -52,9 +52,9 @@ cv:
         studyType: Bsc
         start_date: 2016
         end_date: 2018
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
     Experience:
       - company: Chapsvision by SYSTRAN
@@ -70,11 +70,11 @@ cv:
       - company: KPMG 
         position: Data Scientist
         location: Paris, France
-        start_date: March 2022
-        end_date: August 2022
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: MAR 2022
+        end_date: SEP 2022
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       # - company: Kaiser Wilhelm Institute for Physics
       #   position: Director
@@ -89,16 +89,16 @@ cv:
         end_date: Sep, 2021
 
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Nobel Prize in Physics
@@ -141,11 +141,11 @@ cv:
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: Spanish
