@@ -47,7 +47,7 @@ cv:
           - Description 2.
 
       - institution: Université Auvergne
-        location: Clermont Ferrand, France
+        location: Lyon, France
         area: Electrical Engineering
         studyType: Bsc
         start_date: 2016
@@ -57,42 +57,37 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Chapsvision by SYSTRAN
+        position: Research Engineer AI/NLP
+        location: Paris, France
+        start_date: 2022
+        end_date: Currently
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: KPMG 
+        position: Data Scientist
+        location: Paris, France
+        start_date: March 2022
+        end_date: August 2022
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      # - company: Kaiser Wilhelm Institute for Physics
+      #   position: Director
+      #   location: Berlin, Germany
+      #   start_date: 1917
+      #   end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Sanofi
+        position: Machine Learning Intern
+        location: Paris, France
+        start_date: Feb, 2021
+        end_date: Sep, 2021
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
@@ -153,11 +148,16 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Spanish
         summary: "Native speaker"
+      
+      - name: French
+        summary: "Fluent"
 
       - name: English
-        summary: "Fluent"
+        summary: "Working Knowledge"
+
+
 
     Interests:
       - name: Physics
@@ -189,11 +189,11 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
