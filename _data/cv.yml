@@ -117,30 +117,53 @@ cv:
         summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Leveraging Large Pre-trained Multilingual Models for High-Quality Speech-to-Text Translation on Industry Scenarios
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Marko Avila, Josep Crego
+        publisher: Association for Computational Linguistics
+        Address: Abu Dhabi, UAE
+        Venue: COLING
+        releaseDate: 2025-01-25
+        url: https://aclanthology.org/2025.coling-main.509/
+        summary: Speech-to-Text Translation (S2TT) involves converting spoken language from a source language directly into text in a target language. Traditionally, S2TT systems rely on a sequential pipeline that combines Automatic Speech Recognition (ASR) and Machine Translation (MT) models. However, these systems are prone to error propagation and demand substantial resources to develop and train each component independently. Thus, posing a major challenge in industry settings where cost-effective yet highly accurate S2TT solutions are essential. With the increasing availability of multilingual large pre-trained speech models (LPSM), we propose a parameter-efficient framework that integrates one LPSM with a multilingual MT engine. We evaluate the effectiveness of several well-established LPSMs within this framework, focusing on a real-world industry scenario that involves building a system capable of translating between French, English, and Arabic. The results show that high-quality S2TT systems can be built with minimal computational resources, offering an efficient solution for cross-lingual communication.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: SYSTRAN @ IWSLT 2025 Low-resource track
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Marko Avila, Josep Crego
+        publisher: Association for Computational Linguistics
+        Venue : IWSLT | WS
+        releaseDate: 2025-07-22
+        url: https://aclanthology.org/2025.iwslt-1.33/
+        summary: 
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: TuniFra:A Tunisian Arabic Speech Corpus with Orthographic Transcriptions and French Translations
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Alex Choux, Marko Avila, Josep Crego, Fethi Bougares, Antoine Laurent
+        publisher: Association for Computational Linguistics
+        Venue: ArabicNLP
+        releaseDate: 2025-11-05
+        url: https://aclanthology.org/2025.arabicnlp-main.5/
+        summary:
+      
+      - title: SYSTRAN @ WMT24 Non-Repetitive Translation Task
+        authors:
+          - Marko Avila, Josep Crego
+        publisher: Association for Computational Linguistics
+        Venue: WMT | WS
+        releaseDate: 2024-11-05
+        url: https://aclanthology.org/2024.wmt-1.108/
+        summary:
+      
+       - title: Réduction des répétitions dans la Traduction Automatique Neuronale
+        authors:
+          - Marko Avila, Josep Crego
+        publisher: Association for Computational Linguistics
+        Venue: JEP/TALN/RECITAL
+        releaseDate: 2024-07-05
+        url: https://aclanthology.org/2024.jeptalnrecital-taln.13/
+        summary:
 
+      
     # Skills:
     #   - name: Physics
     #     level: Master
