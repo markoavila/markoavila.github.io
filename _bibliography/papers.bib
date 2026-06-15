@@ -44,24 +44,22 @@
     abstract = "Many contemporary NLP systems rely on neural decoders for text generation, which demonstrate an impressive ability to generate text approaching human fluency levels. However, in the case of neural machine translation networks, they often grapple with the production of repetitive content, also known as repetitive diction or word repetition, an aspect they weren{'}t explicitly trained to address. While not inherently negative, this repetition can make writing seem monotonous or awkward if not used intentionally for emphasis or stylistic purposes. This paper presents our submission to the WMT 2024 Non-Repetitive Translation Task, for which we adopt a repetition penalty method applied at learning inspired by the principles of label smoothing. No additional work is needed at inference time. We modify the ground-truth distribution to steer the model towards discouraging repetitions. Experiments show the ability of the proposed methods in reducing repetitions within neural machine translation engines, without compromising efficiency or translation quality."
 }
 
-@inproceedings{avila-crego-2025-leveraging,
-    title = "Leveraging Large Pre-trained Multilingual Models for High-Quality Speech-to-Text Translation on Industry Scenarios",
-    author = "Avila, Marko  and
-      Crego, Josep",
-    editor = "Rambow, Owen  and
-      Wanner, Leo  and
-      Apidianaki, Marianna  and
-      Al-Khalifa, Hend  and
-      Eugenio, Barbara Di  and
-      Schockaert, Steven",
-    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
-    month = jan,
-    year = "2025",
-    address = "Abu Dhabi, UAE",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.coling-main.509/",
-    pages = "7624--7633",
-    abstract = "Speech-to-Text Translation (S2TT) involves converting spoken language from a source language directly into text in a target language. Traditionally, S2TT systems rely on a sequential pipeline that combines Automatic Speech Recognition (ASR) and Machine Translation (MT) models. However, these systems are prone to error propagation and demand substantial resources to develop and train each component independently. Thus, posing a major challenge in industry settings where cost-effective yet highly accurate S2TT solutions are essential. With the increasing availability of multilingual large pre-trained speech models (LPSM), we propose a parameter-efficient framework that integrates one LPSM with a multilingual MT engine. We evaluate the effectiveness of several well-established LPSMs within this framework, focusing on a real-world industry scenario that involves building a system capable of translating between French, English, and Arabic. The results show that high-quality S2TT systems can be built with minimal computational resources, offering an efficient solution for cross-lingual communication."
+@misc{avila2025leveraging,
+  title        = {Leveraging Large Pre-trained Multilingual Models for High-Quality Speech-to-Text Translation on Industry Scenarios},
+  author       = {Avila, Marko and Crego, Josep},
+  year         = {2025},
+  month        = jan,
+
+  howpublished = {Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)},
+  publisher    = {Association for Computational Linguistics},
+  address      = {Abu Dhabi, UAE},
+
+  url          = {https://aclanthology.org/2025.coling-main.509/},
+  pages        = {7624--7633},
+
+  note         = {Presented at COLING 2025},
+
+  abstract     = {Speech-to-Text Translation (S2TT) involves converting spoken language from a source language directly into text in a target language. Traditionally, S2TT systems rely on a sequential pipeline that combines Automatic Speech Recognition (ASR) and Machine Translation (MT) models. However, these systems are prone to error propagation and demand substantial resources to develop and train each component independently. Thus, posing a major challenge in industry settings where cost-effective yet highly accurate S2TT solutions are essential. With the increasing availability of multilingual large pre-trained speech models (LPSM), we propose a parameter-efficient framework that integrates one LPSM with a multilingual MT engine. We evaluate the effectiveness of several well-established LPSMs within this framework, focusing on a real-world industry scenario that involves building a system capable of translating between French, English, and Arabic. The results show that high-quality S2TT systems can be built with minimal computational resources, offering an efficient solution for cross-lingual communication.}
 }
 
 @inproceedings{avila-crego-2025-systran,
