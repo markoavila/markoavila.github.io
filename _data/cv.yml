@@ -8,18 +8,18 @@ cv:
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: marko avila
     - network: GitHub
       username: markoavila
     - network: LinkedIn
-      username: example
+      username: marko-avila-007251132
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    # street: 2712 Broadway St
+    city: Paris
+    region: Paris
+    postalCode: 75013
+    countryCode: France
 
   sections:
     Education:
