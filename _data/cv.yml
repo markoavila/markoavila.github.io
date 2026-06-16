@@ -100,29 +100,29 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Leveraging Large Pre-trained Multilingual Models for High-Quality Speech-to-Text Translation on Industry Scenarios
         authors:
           - Marko Avila, Josep Crego
         publisher: Association for Computational Linguistics
-        Address: Abu Dhabi, UAE
-        Venue: COLING
+        # Address: Abu Dhabi, UAE
+        # Venue: COLING
         releaseDate: 2025-01-25
         url: https://aclanthology.org/2025.coling-main.509/
         summary: Speech-to-Text Translation (S2TT) involves converting spoken language from a source language directly into text in a target language. Traditionally, S2TT systems rely on a sequential pipeline that combines Automatic Speech Recognition (ASR) and Machine Translation (MT) models. However, these systems are prone to error propagation and demand substantial resources to develop and train each component independently. Thus, posing a major challenge in industry settings where cost-effective yet highly accurate S2TT solutions are essential. With the increasing availability of multilingual large pre-trained speech models (LPSM), we propose a parameter-efficient framework that integrates one LPSM with a multilingual MT engine. We evaluate the effectiveness of several well-established LPSMs within this framework, focusing on a real-world industry scenario that involves building a system capable of translating between French, English, and Arabic. The results show that high-quality S2TT systems can be built with minimal computational resources, offering an efficient solution for cross-lingual communication.
@@ -131,7 +131,7 @@ cv:
         authors:
           - Marko Avila, Josep Crego
         publisher: Association for Computational Linguistics
-        Venue : IWSLT | WS
+        # Venue : IWSLT | WS
         releaseDate: 2025-07-22
         url: https://aclanthology.org/2025.iwslt-1.33/
         summary: 
@@ -140,7 +140,7 @@ cv:
         authors:
           - Alex Choux, Marko Avila, Josep Crego, Fethi Bougares, Antoine Laurent
         publisher: Association for Computational Linguistics
-        Venue: ArabicNLP
+        # Venue: ArabicNLP
         releaseDate: 2025-11-05
         url: https://aclanthology.org/2025.arabicnlp-main.5/
         summary:
@@ -149,7 +149,7 @@ cv:
         authors:
           - Marko Avila, Josep Crego
         publisher: Association for Computational Linguistics
-        Venue: WMT | WS
+        # Venue: WMT | WS
         releaseDate: 2024-11-05
         url: https://aclanthology.org/2024.wmt-1.108/
         summary:
@@ -158,7 +158,7 @@ cv:
         authors:
           - Marko Avila, Josep Crego
         publisher: Association for Computational Linguistics
-        Venue: JEP/TALN/RECITAL
+        # Venue: JEP/TALN/RECITAL
         releaseDate: 2024-07-05
         url: https://aclanthology.org/2024.jeptalnrecital-taln.13/
         summary:
