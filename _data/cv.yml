@@ -112,50 +112,50 @@ cv:
     
      Publications:
       - title: Leveraging Large Pre-trained Multilingual Models for High-Quality Speech-to-Text Translation on Industry Scenarios
-        authors:
-          - Marko Avila, Josep Crego
-        publisher: Association for Computational Linguistics
-        # Address: Abu Dhabi, UAE
-        # Venue: COLING
-        releaseDate: 2025-01-25
-        url: https://aclanthology.org/2025.coling-main.509/
-        summary: Speech-to-Text Translation (S2TT) involves converting spoken language from a source language directly into text in a target language. Traditionally, S2TT systems rely on a sequential pipeline that combines Automatic Speech Recognition (ASR) and Machine Translation (MT) models. However, these systems are prone to error propagation and demand substantial resources to develop and train each component independently. Thus, posing a major challenge in industry settings where cost-effective yet highly accurate S2TT solutions are essential. With the increasing availability of multilingual large pre-trained speech models (LPSM), we propose a parameter-efficient framework that integrates one LPSM with a multilingual MT engine. We evaluate the effectiveness of several well-established LPSMs within this framework, focusing on a real-world industry scenario that involves building a system capable of translating between French, English, and Arabic. The results show that high-quality S2TT systems can be built with minimal computational resources, offering an efficient solution for cross-lingual communication.
+            authors:
+              - Marko Avila, Josep Crego
+            publisher: Association for Computational Linguistics
+            # Address: Abu Dhabi, UAE
+            # Venue: COLING
+            releaseDate: 2025-01-25
+            url: https://aclanthology.org/2025.coling-main.509/
+            summary: Speech-to-Text Translation (S2TT) involves converting spoken language from a source language directly into text in a target language. Traditionally, S2TT systems rely on a sequential pipeline that combines Automatic Speech Recognition (ASR) and Machine Translation (MT) models. However, these systems are prone to error propagation and demand substantial resources to develop and train each component independently. Thus, posing a major challenge in industry settings where cost-effective yet highly accurate S2TT solutions are essential. With the increasing availability of multilingual large pre-trained speech models (LPSM), we propose a parameter-efficient framework that integrates one LPSM with a multilingual MT engine. We evaluate the effectiveness of several well-established LPSMs within this framework, focusing on a real-world industry scenario that involves building a system capable of translating between French, English, and Arabic. The results show that high-quality S2TT systems can be built with minimal computational resources, offering an efficient solution for cross-lingual communication.
 
       - title: SYSTRAN @ IWSLT 2025 Low-resource track
-        authors:
-          - Marko Avila, Josep Crego
-        publisher: Association for Computational Linguistics
-        # Venue : IWSLT | WS
-        releaseDate: 2025-07-22
-        url: https://aclanthology.org/2025.iwslt-1.33/
-        summary: 
+            authors:
+              - Marko Avila, Josep Crego
+            publisher: Association for Computational Linguistics
+            # Venue : IWSLT | WS
+            releaseDate: 2025-07-22
+            url: https://aclanthology.org/2025.iwslt-1.33/
+            summary: 
 
       - title: TuniFra:A Tunisian Arabic Speech Corpus with Orthographic Transcriptions and French Translations
-        authors:
-          - Alex Choux, Marko Avila, Josep Crego, Fethi Bougares, Antoine Laurent
-        publisher: Association for Computational Linguistics
-        # Venue: ArabicNLP
-        releaseDate: 2025-11-05
-        url: https://aclanthology.org/2025.arabicnlp-main.5/
-        summary:
+            authors:
+              - Alex Choux, Marko Avila, Josep Crego, Fethi Bougares, Antoine Laurent
+            publisher: Association for Computational Linguistics
+            # Venue: ArabicNLP
+            releaseDate: 2025-11-05
+            url: https://aclanthology.org/2025.arabicnlp-main.5/
+            summary:
       
       - title: SYSTRAN @ WMT24 Non-Repetitive Translation Task
-        authors:
-          - Marko Avila, Josep Crego
-        publisher: Association for Computational Linguistics
-        # Venue: WMT | WS
-        releaseDate: 2024-11-05
-        url: https://aclanthology.org/2024.wmt-1.108/
-        summary:
+            authors:
+              - Marko Avila, Josep Crego
+            publisher: Association for Computational Linguistics
+            # Venue: WMT | WS
+            releaseDate: 2024-11-05
+            url: https://aclanthology.org/2024.wmt-1.108/
+            summary:
       
        - title: Réduction des répétitions dans la Traduction Automatique Neuronale
-        authors:
-          - Marko Avila, Josep Crego
-        publisher: Association for Computational Linguistics
-        # Venue: JEP/TALN/RECITAL
-        releaseDate: 2024-07-05
-        url: https://aclanthology.org/2024.jeptalnrecital-taln.13/
-        summary:
+            authors:
+              - Marko Avila, Josep Crego
+            publisher: Association for Computational Linguistics
+            # Venue: JEP/TALN/RECITAL
+            releaseDate: 2024-07-05
+            url: https://aclanthology.org/2024.jeptalnrecital-taln.13/
+            summary:
 
       
     Skills:
